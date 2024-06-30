@@ -1,10 +1,9 @@
-# AbsenSIKaryawan
-Absensi dan Sistem Informasi Karyawan berbasis web
+# PBL-IF-23-2-27
 
 
--> Absen Karyawan - SIKaryawan
+-> Real Time Deteksi Orang Menggunakan CNN Berbasis Web
 
-Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis web, yang dibuat untuk memenuhi kebutuhan perusahaan atau instansi yang membutuhkan aplikasi absensi karyawan.
+Real Time Deteksi Orang Menggunakan CNN Berbasis Web- Sistem informasi karyawan merupakan aplikasi absensi berbasis web, yang dibuat untuk memenuhi kebutuhan perusahaan atau instansi yang membutuhkan aplikasi absensi karyawan.
 
 -> Fitur - fitur aplikasi : 
 1.admin, dimana admin bisa mengontrol aplikasi, ini seperti menambahkan, melihat, mengubah atau menghapus data.
@@ -19,5 +18,3 @@ Absen Karyawan - Sistem informasi karyawan merupakan aplikasi absensi berbasis w
   1. username = user
   2. password = user
   
--> Catatan(PENTING) :
-    <i style="color: yellow;">Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'karyawansi'</i>
